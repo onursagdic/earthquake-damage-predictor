@@ -1,0 +1,11 @@
+ilce		    / 2000 oncesi 		/ 2000 sonrasi	    	/ zemin yapisi		/ enlem			/ boylam
+Umraniye 	    / 337  		    	/ 188    	            / Az Riskli		    / 41.0338 		/ 29.1013
+Pendik		    / 345		    	/ 169   	            / Az Riskli		    / 40.8796		/ 29.2580
+Beykoz          / 343               / 168                   / Risksiz           / 41.1271       / 29.0978
+Silivri         / 266               / 234                   / Çok Riskli        / 41.0737       / 28.2479
+Sariyer         / 330               / 163                   / Az Riskli         / 41.1664       / 29.0500
+Fatih           / 397               / 37                    / Çok Riskli        / 41.0203       / 28.9339
+Bagcilar        / 346               / 78                    / Riskli            / 41.0341       / 28.8330
+Uskudar         / 353               / 63                    / Az Riskli         / 41.0327       / 29.0319
+Kucukcekmece    / 281               / 119                   / Çok Riskli        / 41.0092       / 28.7757
+Esenyurt        / 238               / 148                   / Çok Riskli        / 41.0412       / 28.6939

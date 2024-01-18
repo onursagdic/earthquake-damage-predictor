@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.tabloRapor{
+    width: 100%;
+    background-color: rebeccapurple!important;
+    text-align: center;
+}
+.tabloRapor tr:first-child{
+    background-color: #01987A;
+    color: white;
+    cursor:text;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+tr:nth-child(odd){
+    background-color:#b1b1b1; 
+}
+tr:nth-child(even){ 
+    background-color:#fff; 
+}
+tr:not(:first-child):hover{
+    color: #01987A;
+    cursor: pointer;
+    opacity: 0.9;
+}
+.iframeMap{
+    width: 100%;
+    height: 550px;
+}
